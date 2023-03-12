@@ -58,8 +58,7 @@ button{
         <div class="banner">
             
             <div class="content">
-                <h1> Alelie Yvonne Tayco </h1>
-                <p>BSCS-SF</p>
+                
                 <div>
                     <button type="button"><a href="about" target="_blank" style="color: rgb(94, 68, 68);">Click Me!</a></button>
                 </div>
