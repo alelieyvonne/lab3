@@ -261,7 +261,7 @@ p, a{
             <div class="row">
                 <div class="column2"> 
                 
-                
+                <p>dhss </p>
                 
                    
 
@@ -281,8 +281,13 @@ p, a{
       
       <div class="row2">
         <div class="column3">
+          
+
           <div class="card">
-           bsjshdks
+          <a href="http://localhost/lab3/ci4/public/guest/create" style="margin-right: 50px;"><h1><button><b><i>Guest Form</i></b></button></h1></a>
+
+
+           
          </div>
 
         </div>
