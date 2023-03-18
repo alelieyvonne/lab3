@@ -261,7 +261,11 @@ p, a{
             <div class="row">
                 <div class="column2"> 
                 
-                <p>dhss </p>
+                <button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
                 
                    
 
